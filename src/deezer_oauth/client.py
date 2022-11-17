@@ -33,6 +33,7 @@ class OAuthDancer:
                         "manage_community",
                         "delete_library",
                         "listening_history",
+                        "offline_access",
                     ]
                 ),
             }
